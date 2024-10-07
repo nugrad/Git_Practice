@@ -3,3 +3,12 @@ def add(a,b):
 def sub(a,b):
     return a-b
 
+
+
+
+
+
+# added by deva
+def divide(a,b):
+    return a/b
+
